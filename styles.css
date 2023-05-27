@@ -133,8 +133,8 @@ body {
   
    .icon-parent {
     padding: 0;
-    height: 55px;
-    width: 55px;
+    height: 65px;
+    width:  65px;
     background-color: #f6f6f6;
     border-radius: 50%;
     display: flex;
@@ -143,8 +143,8 @@ body {
     text-align: center;
   } 
    .first-icon-parent {
-    height: 55px;
-    width: 55px;
+    height: 65px;
+    width:  65px;
     border: 1px solid #f6f6f6;
     /* background-color: #f6f6f6; */
     border-radius: 50%;
